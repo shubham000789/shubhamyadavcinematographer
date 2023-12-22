@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shubham Yadav - Filmmaker</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 2em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1> <font color=white size=5 face=times new roman bold>Shubham Yadav</h1>
+        <p>Filmmaker</p>
+    </header>
+
+    <section>
+        <h2> <font color=white size=3 face=Times New Roman> About Me</h2>
+        <p> <font color=white size=4 face=Times new roman> Welcome! I'm a full-time filmmaker with a rich 
+                    skill set encompassing video editing, color grading, and cinematography. 
+                    With a solid two years of experience in the field, I bring a wealth of expertise to my work, shaping narratives 
+                    through the lens and post-production finesse. </p>
+    </section>
+
+    <section>
+        <h2> <font color=white size=5 face=Times New Roman> Colorgrading </h2>
+        <img src="file:///C:/Users/pc/Downloads/New%20folder/first%20grade.jpg" width="420" height="420"> </img>
+        <img src="file:///C:/Users/pc/Downloads/New%20folder/11.jpg" width="420" height="420"> </img>
+        <img src="file:///C:/Users/pc/Downloads/New%20folder/insta%20grade%2010.jpg" width="420" height="420"> </img>
+
+    </section>
+
+    <section>
+        <h2> <font color=white size=4 face=Times New Roman>Contact</h2>
+        <p><font color=white size=3 face=Times New Roman>Email: <a href="mailto:capturingactions@gmail.com">capturingactions@gmail.com</a></p>
+        <p><font color=white size=3 face=Times New Roman>Instagram: <a href="https://www.instagram.com/iamshubhamyadavv/" target="_blank">@iamshubhamyadavv</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Shubham Yadav</p>
+    </footer>
+
+</body>
+</html>
